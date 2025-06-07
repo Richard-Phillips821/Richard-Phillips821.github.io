@@ -1,7 +1,12 @@
 ---
 layout: default
-title: Richie Phillips | Healthcare Data Portfolio
 ---
+
+<nav style="text-align: center; margin-bottom: 2em;">
+  <a href="/" style="margin-right: 1em;">Home</a>
+  <a href="/about/">About</a>
+</nav>
+
 
 # Welcome!
 
