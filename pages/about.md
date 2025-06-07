@@ -1,8 +1,8 @@
----
-title: About
-layout: page
-permalink: /about/
----
+<nav style="background: #1e6bb8; padding: 1em; text-align: center;">
+  <a href="/" style="color: white; text-decoration: none; margin: 0 1em; font-weight: bold;">Home</a>
+  <a href="/about/" style="color: white; text-decoration: none; margin: 0 1em; font-weight: bold;">About</a>
+</nav>
+
 
 # About Me
 
