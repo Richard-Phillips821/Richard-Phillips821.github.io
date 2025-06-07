@@ -1,16 +1,19 @@
 theme: jekyll-theme-cayman
+
 nav:
   - title: "Home"
     url: "/"
   - title: "About"
     url: "/about/"
+
 defaults:
   - scope:
       path: "pages"
       type: pages
     values:
       layout: page
-      author_profile: true
+      author_profile: false
+
 collections:
   pages:
     output: true
