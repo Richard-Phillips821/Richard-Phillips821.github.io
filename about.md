@@ -1,9 +1,10 @@
 ---
 title: About
 layout: page
+permalink: /about/
 ---
 
-## About Me
+# About Me
 
 Hi, I'm **Richie Phillips**, an Advanced Certified Pharmacy Technician and Data Analytics student. I'm passionate about using data to improve healthcare outcomes.
 
