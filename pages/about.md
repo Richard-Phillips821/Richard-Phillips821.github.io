@@ -3,6 +3,11 @@
   <a href="/about/" style="color: white; text-decoration: none; margin: 0 1em; font-weight: bold;">About</a>
 </nav>
 
+---
+title: About
+permalink: /about/
+layout: default
+---
 
 # About Me
 
