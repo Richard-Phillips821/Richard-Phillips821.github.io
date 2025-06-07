@@ -11,3 +11,6 @@ defaults:
     values:
       layout: page
       author_profile: false
+collections:
+  pages:
+    output: true
