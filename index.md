@@ -1,25 +1,25 @@
 ---
-title: "Richie Phillips | Healthcare Data Portfolio"
 layout: default
+title: Richie Phillips | Healthcare Data Portfolio
 ---
 
-## Welcome!
+# Welcome!
 
-I'm **Richie Phillips**, an Advanced Certified Pharmacy Technician and aspiring Data Analyst focused on using data to improve healthcare outcomes.
+I'm **Richie Phillips**, an Advanced Certified Pharmacy Technician and aspiring Data Analyst. I use data to improve healthcare outcomes.
 
-### 🔍 Career Experience
-- Hospital and retail pharmacy
-- COVID-19 vaccine rollout and reporting
-- Appeals and MTM support at **Centene**
+## 🩺 Background
+- 10+ years in pharmacy (hospital + retail)
+- COVID-19 vaccine rollout management
+- Experience in MTM, appeals, billing
 
-### 📊 Data Skills
-- Python, SQL, and Power BI
-- Statistical modeling and data storytelling
-- Medication adherence and process improvement
+## 📊 Skills
+- SQL, Python, Power BI, Tableau
+- Healthcare data storytelling
+- Predictive analytics and reporting
 
-### 🧠 Portfolio Highlights
-- Interactive dashboards
-- Healthcare project writeups
-- Academic coursework and analysis
+## 📁 Projects
+- [Insulin Tracker Dashboard](#)
+- [Pharmacy Adherence Heatmap](#)
+- [Data Cleaning in Pandas](#)
 
-Thanks for visiting!
+> Thanks for visiting! Let's improve healthcare through data.
