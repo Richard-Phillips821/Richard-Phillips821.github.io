@@ -1,3 +1,9 @@
+title: Richie Phillips
+description: >-
+  E-Portfolio for Healthcare Data Analytics
+baseurl: "" # keep this empty for user.github.io-style repos
+url: "https://richard-phillips821.github.io"
+
 theme: jekyll-theme-cayman
 
 nav:
@@ -13,7 +19,3 @@ defaults:
     values:
       layout: page
       author_profile: false
-
-collections:
-  pages:
-    output: true
