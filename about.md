@@ -1,16 +1,19 @@
 ---
-layout: page
 title: About
-permalink: /about/
+layout: page
 ---
 
-# About Me
+## About Me
 
-Hi, I'm **Richie Phillips** — a Certified Pharmacy Technician and Data Analytics student passionate about improving healthcare outcomes through data.
+Hi, I'm **Richie Phillips**, an Advanced Certified Pharmacy Technician and Data Analytics student. I'm passionate about using data to improve healthcare outcomes.
 
-- 📍 Based in Florence, Alabama  
-- 🎓 Currently at Southern New Hampshire University (4.0 GPA)  
-- 🧠 Interests: healthcare analytics, medication adherence, data storytelling  
-- 🛠️ Skills: Python, SQL, Power BI  
+My background includes:
+- Over 10 years in hospital and retail pharmacy
+- COVID-19 vaccine rollout and billing
+- MTM, appeals, and reimbursement work at Centene
 
-I'm building this portfolio to showcase my healthcare-focused data projects and share what I'm learning along the way!
+I'm currently completing my degree in Data Analytics and building skills in:
+- Python, SQL, Power BI
+- Predictive modeling and data storytelling
+
+Thanks for visiting my portfolio!
