@@ -1,3 +1,8 @@
 title: Richie Phillips | Healthcare Data Portfolio
 description: Portfolio site for Richie Phillips — Pharmacy Technician & Data Analyst
 theme: jekyll-theme-cayman
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
