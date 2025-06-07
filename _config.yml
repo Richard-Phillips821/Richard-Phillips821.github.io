@@ -10,7 +10,7 @@ defaults:
       type: pages
     values:
       layout: page
-      author_profile: false
+      author_profile: true
 collections:
   pages:
     output: true
