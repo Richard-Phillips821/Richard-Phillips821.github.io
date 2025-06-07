@@ -6,15 +6,14 @@ permalink: /about/
 
 # About Me
 
-Hi, I'm **Richie Phillips**, an Advanced Certified Pharmacy Technician and Data Analytics student. I'm passionate about using data to improve healthcare outcomes.
+Hi, I'm Richie Phillips — an Advanced Certified Pharmacy Technician and aspiring Data Analyst.  
+I specialize in using healthcare data to improve medication adherence, streamline operations, and support patient outcomes.
 
-My background includes:
-- Over 10 years in hospital and retail pharmacy
-- COVID-19 vaccine rollout and billing
-- MTM, appeals, and reimbursement work at Centene
+## My Journey
+- 10+ years in pharmacy: hospital, retail, MTM, COVID-19 vaccine rollout  
+- Transitioned into data analytics to solve real-world healthcare challenges
 
-I'm currently completing my degree in Data Analytics and building skills in:
-- Python, SQL, Power BI
-- Predictive modeling and data storytelling
-
-Thanks for visiting my portfolio!
+## What I Do
+- SQL • Python • Tableau • Power BI  
+- Data storytelling & predictive modeling  
+- Healthcare claims, MTM data, and appeals analytics
